@@ -13,6 +13,7 @@ WORKDIR /data/artifact/
 ADD node_modules node_modules
 ADD models models
 ADD html html
+ADD lib lib
 ADD test test
 ADD routes routes
 ADD gatling gatling
