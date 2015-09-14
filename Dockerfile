@@ -15,6 +15,7 @@ ADD models models
 ADD html html
 ADD test test
 ADD routes routes
+ADD lib lib
 ADD gatling gatling
 ADD app.js gulpfile.js package.json selenium-server-standalone-2.47.1.jar ./
 
